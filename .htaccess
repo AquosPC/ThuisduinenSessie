@@ -1,0 +1,19 @@
+RewriteEngine On
+
+#remove index.html
+RewriteRule ^index\.html$ / [NC,R=301,L]
+RewriteRule ^(.*)/index\.html$ /$1/ [NC,R=301,L]
+
+#deny json
+RewriteRule \.json$ - [NC,F,L]
+
+#redirect files
+RewriteRule ^(assets/)(images|videos|documents)(/.*) /$1files$3 [NC,R=301,L]
+
+#add trailing slash
+RewriteCond %{REQUEST_URI} !(/$|\.)
+RewriteRule ^(.*)$ %{REQUEST_URI}/ [R=301,L]
+
+#non-www to www
+RewriteCond %{HTTP_HOST} ^[^.]+\.[^.]+$
+RewriteRule ^(.*)$ //www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
