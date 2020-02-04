@@ -1,46 +1,6 @@
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-<title>Over ons - thuisduinen2050.nl</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<link rel="shortcut icon" href="data:;base64,iVBORw0KGgo=">
-<link rel="stylesheet" href="../assets/css/website.css?v=1580807333">
-<link rel="stylesheet" href="../assets/css/page-330323.css?v=1580807333">
-<script>var LANGUAGE_CODE = 'nl';</script>
-</head>
-<body>
-<div id="viewport">
-	<div class="page" id="page-330323">
-		<header class="block-112-1 dark" data-sticky="sticky">
-			<div class="container">
-				<div class="row row-xs-split">
-					<div class="col col-1">
-						<div class="box-1 light">
-							<div class="media-1 dark">
-								<img src="../assets/files/thuisduinen2050-1000px.png">
-							</div>
-						</div>
-					</div>
-					<div class="col col-2">
-						<div class="menu">
-							<a class="control-1 light handler" href="#">
-								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/></svg>
-							</a>
-							<div class="block-112-1-mobile-menu mobile-menu">
-								<div class="outer">
-									<div class="inner box dark-shade">
-										<nav class="menu-1 light" data-levels="2"><ul><li><a href="../">Welkom</a></li><li class="active"><a href="../over-ons/">Over ons</a></li><li><a href="../bewoners/">Bewoners</a></li><li><a href="../projecten/">Projecten</a><ul><li><a href="../projecten/energie-en-duurzaamheid/">Energie en Duurzaamheid</a></li><li><a href="../projecten/voeding-en-gezondheid/">Voeding en Gezondheid</a></li><li><a href="../projecten/zorg-en-welzijn/">Zorg en Welzijn</a></li><li><a href="../projecten/logistiek-en-infrastructuur/">Logistiek en Infrastructuur</a></li></ul></li><li><a href="../contact/">Contact</a></li></ul></nav>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
+<?php
+	require '../assets/Includes/Header.php';
+?>
 		<header id="block-2-2682378" class="dark" data-parallax="parallax">
 			<div class="media-4 dark" data-size="1920x0x0x100" data-position="center-middle">
 				<img src="../assets/files/huisduinen1.1920x0x0x100.jpg" srcset="../assets/files/huisduinen1.480x0x0x100.jpg 480w, ../assets/files/huisduinen1.960x0x0x100.jpg 960w, ../assets/files/huisduinen1.1920x0x0x100.jpg 1920w" sizes="(max-width: 480px) 480px, (max-width: 960px) 960px, 1920px">

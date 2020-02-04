@@ -7,8 +7,8 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="shortcut icon" href="data:;base64,iVBORw0KGgo=">
-<link rel="stylesheet" href="/assets/css/website.css?v=1580807333">
-<link rel="stylesheet" href="/assets/css/page-330324.css?v=1580807333">
+<link rel="stylesheet" href="../assets/css/website.css?v=1580807333">
+<link rel="stylesheet" href="../assets/css/page-330324.css?v=1580807333">
 <script>var LANGUAGE_CODE = 'nl';</script>
 </head>
 <body>
@@ -20,7 +20,7 @@
 					<div class="col col-1">
 						<div class="box-1 light">
 							<div class="media-1 dark">
-								<img src="/assets/files/thuisduinen2050-1000px.png">
+								<img src="../assets/files/thuisduinen2050-1000px.png">
 							</div>
 						</div>
 					</div>
@@ -32,7 +32,7 @@
 							<div class="block-112-1-mobile-menu mobile-menu">
 								<div class="outer">
 									<div class="inner box dark-shade">
-										<nav class="menu-1 light" data-levels="2"><ul><li><a href="/">Welkom</a></li><li><a href="/over-ons/">Over ons</a></li><li class="active"><a href="/bewoners/">Bewoners</a></li><li><a href="/projecten/">Projecten</a><ul><li><a href="/projecten/energie-en-duurzaamheid/">Energie en Duurzaamheid</a></li><li><a href="/projecten/voeding-en-gezondheid/">Voeding en Gezondheid</a></li><li><a href="/projecten/zorg-en-welzijn/">Zorg en Welzijn</a></li><li><a href="/projecten/logistiek-en-infrastructuur/">Logistiek en Infrastructuur</a></li></ul></li><li><a href="/contact/">Contact</a></li></ul></nav>
+										<nav class="menu-1 light" data-levels="2"><ul><li><a href="../">Welkom</a></li><li><a href="../over-ons/">Over ons</a></li><li class="active"><a href="../bewoners/">Bewoners</a></li><li><a href="../projecten/">Projecten</a><ul><li><a href="../projecten/energie-en-duurzaamheid/">Energie en Duurzaamheid</a></li><li><a href="../projecten/voeding-en-gezondheid/">Voeding en Gezondheid</a></li><li><a href="../projecten/zorg-en-welzijn/">Zorg en Welzijn</a></li><li><a href="../projecten/logistiek-en-infrastructuur/">Logistiek en Infrastructuur</a></li></ul></li><li><a href="../contact/">Contact</a></li></ul></nav>
 									</div>
 								</div>
 							</div>
