@@ -1,0 +1,73 @@
+.pageBG {
+    background-color: white;
+}
+.maincard {
+    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41);
+    padding: 3em;
+    border-radius: 15px;
+    margin: 2em;
+    font-family: 'Ubuntu', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .parallaxwithtext {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/48-binnenplein.1920x0.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    -webkit-filter: grayscale(25%);
+    -moz-filter: grayscale(25%);
+    -o-filter: grayscale(25%);
+    -ms-filter: grayscale(25%);
+    filter: grayscale(25%); 
+  }
+.divwithtext {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    width: 50%;
+    margin: auto;
+    display: inline-block; 
+    margin: 0 auto;
+    padding: 12em;
+}
+.Blogdiv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;      
+}
+.Blogdiv > .Blogimage {
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.Blogdiv > .Blogimage > img {
+    width: 50%;
+     margin: auto;
+    padding: 1em;
+    text-align: center;
+}
+.Blogdiv > .Blogtitle {
+    
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .buttona > .button:hover {
+    background-color: rgb(64, 15, 199);
+    color: white;
+  }
