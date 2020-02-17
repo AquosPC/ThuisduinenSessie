@@ -13,11 +13,11 @@
     <img class="Logo" src="https://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png" alt="Logo">
     <nav class="flex-nav nav">
         <div class="navdiv">
-            <a class="navlinks" href="www.google.com">Welkom</a>
-            <a class="navlinks" href="www.google.com">Over ons</a>
-            <a class="navlinks" href="www.google.com">Bewoners</a>
-            <a class="navlinks" href="www.google.com">Projecten</a>
-            <a class="navlinks" href="www.google.com">Contact</a>
+            <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Welkom</a>
+            <a class="navlinks" href="http://localhost/ThuisduinenSessie/AboutUs.php">Over ons</a>
+            <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Bewoners</a>
+            <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Projecten</a>
+            <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Contact</a>
         </div>
     </nav>
     </div>
