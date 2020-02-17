@@ -15,7 +15,7 @@
         <div class="navdiv">
             <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Welkom</a>
             <a class="navlinks" href="http://localhost/ThuisduinenSessie/AboutUs.php">Over ons</a>
-            <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Bewoners</a>
+            <a class="navlinks" href="http://localhost/ThuisduinenSessie/Bewoners.php">Bewoners</a>
             <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Projecten</a>
             <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Contact</a>
         </div>

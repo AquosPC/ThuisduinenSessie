@@ -2,9 +2,9 @@
     background-color: white;
 }
 .maincard {
-    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41);
+    /* box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41); */
     padding: 3em;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     margin: 2em;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -26,7 +26,8 @@
     -moz-filter: grayscale(25%);
     -o-filter: grayscale(25%);
     -ms-filter: grayscale(25%);
-    filter: grayscale(25%); 
+    filter: grayscale(25%);
+    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41); 
   }
 .divwithtext {
     color: white;
@@ -71,3 +72,83 @@
     background-color: rgb(64, 15, 199);
     color: white;
   }
+.textcenter {
+  text-align: center;
+}
+.aboutdiv {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+.aboutimg1 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.aboutimg2 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+.aboutimg3 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+.aboutinfo1 {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: center;
+}
+.aboutinfo2 {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-align: center;
+}
+.aboutinfo3 {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  text-align: center;
+}
+.abouticons1 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: center;
+}
+.abouticons2 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-align: center;
+}
+.abouticons3 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  text-align: center;
+}
+.roundcenter {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.icon {
+  width: 5%;
+  padding: 1%;
+}
