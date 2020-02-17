@@ -38,13 +38,6 @@
     border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
 }
-.headimg {
-    text-align: center;
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    max-width: 100%;
-    max-height: 100%;
-}
 .bold {
     font-weight: bold;
 }
@@ -60,3 +53,46 @@
     background-size: cover;
     box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41);
   }
+
+.headimg {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.parallax1 {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/huisduinen1.1920x0x0x100.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.headimg1 {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.parallax2 {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/huisduinen2.1920x0.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+.headimg2 {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    max-width: 100%;
+    max-height: 100%;
+}

@@ -21,8 +21,23 @@
         </div>
     </nav>
     </div>
-    <div class="headimg parallax">
-
-    </div>
+    <?php 
+    $i = rand(0, 2);
+    if ($i === 0){
+        ?>
+        <div class="headimg parallax"></div>
+        <?php
+    }elseif ($i === 1){
+        ?>
+        <div class="headimg1 parallax1"></div>
+        <?php
+    }elseif ($i === 2){
+        ?>
+        <div class="headimg2 parallax2"></div>
+        <?php
+    }else{
+        print($i);
+        }
+    ?>
 </body>
 </html>

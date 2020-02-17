@@ -68,7 +68,7 @@
     display: inline-block;
     font-size: 16px;
   }
-  .buttona > .button:hover {
+.buttona > .button:hover {
     background-color: rgb(64, 15, 199);
     color: white;
   }
