@@ -1,0 +1,98 @@
+.navlinks {
+    display: inline-block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav :hover {
+    color: #f07d00;
+}
+.navdiv {
+    float: right;
+    width: 50%;
+}
+.flex-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #6eaa27; 
+    display: inline-block;
+    width: 99%;
+    min-height: 3em;
+    position: absolute;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+  }
+.Logo {
+    background-color: white;
+    float: left;
+    max-width: 25%;
+    max-height: 25%;
+    z-index: 1000;
+    position: absolute;
+    margin-left: 15%;
+    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41);
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.bold {
+    font-weight: bold;
+}
+.semibold {
+    font-weight: 600;
+}
+.parallax {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/duinen3.1920x0.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41);
+  }
+
+.headimg {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.parallax1 {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/huisduinen1.1920x0x0x100.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+.headimg1 {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.parallax2 {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/huisduinen2.1920x0.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+.headimg2 {
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    max-width: 100%;
+    max-height: 100%;
+}

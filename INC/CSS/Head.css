@@ -1,0 +1,191 @@
+.pageBG {
+    background-color: white;
+}
+.maincard {
+    /* box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41); */
+    padding: 3em;
+    /* border-radius: 15px; */
+    margin: 2em;
+    font-family: 'Ubuntu', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .parallaxwithtext {
+    background-image: url("https://localhost/ThuisduinenSessie/Assets/48-binnenplein.1920x0.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    -webkit-filter: grayscale(25%);
+    -moz-filter: grayscale(25%);
+    -o-filter: grayscale(25%);
+    -ms-filter: grayscale(25%);
+    filter: grayscale(25%);
+    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41); 
+  }
+.divwithtext {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    width: 50%;
+    margin: auto;
+    display: inline-block; 
+    margin: 0 auto;
+    padding: 12em;
+}
+.Blogdiv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;      
+}
+.Blogdiv > .Blogimage {
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.Blogdiv > .Blogimage > img {
+    width: 50%;
+     margin: auto;
+    padding: 1em;
+    text-align: center;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.buttona > .button:hover {
+    background-color: rgb(64, 15, 199);
+    color: white;
+  }
+.textcenter {
+  text-align: center;
+}
+.aboutdiv {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+.aboutimg1 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.aboutimg2 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+.aboutimg3 {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 3;
+  grid-column-end: 4;
+}
+.aboutinfo1 {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: center;
+}
+.aboutinfo2 {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-align: center;
+}
+.aboutinfo3 {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  text-align: center;
+}
+.abouticons1 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  text-align: center;
+}
+.abouticons2 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-align: center;
+}
+.abouticons3 {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  text-align: center;
+}
+.roundcenter {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.icon {
+  width: 5%;
+  padding: 1%;
+}
+.schema {
+  width: 70%;
+}
+.projects {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+.projects > div > img {
+  width: 50%;
+  border-radius: 12%;
+}
+.map {
+  box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.41);
+}
+.maincard > form > input {
+  font-size: large;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 12px;
+  border-width: 10px;
+  border-color: #6eaa27;
+  padding: 1em;
+  width: 20%;
+  border-style: solid;
+}
+.maincard > form > textarea {
+  font-size: 18px;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 12px;
+  border-width: 10px;
+  border-color: #6eaa27;
+  padding: 1em;
+  border-style: solid;
+  resize: none;
+} 
+.button {
+  background-color: #6eaa27;
+}
