@@ -5,12 +5,12 @@
     <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
 </head>
 <body class="pageBG">
-    <div class="maincard">
+    <div class="contactcard">
         <h2 class="textcenter">Contact</h2>
         <iframe class="center map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19233.529035394116!2d4.709952436055914!3d52.9449838633869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf478ccc81cf01%3A0x1143d4e397a20e23!2sHuisduinen!5e0!3m2!1snl!2snl!4v1581948604164!5m2!1snl!2snl" width="95%" height="450px" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
     </div>
     <hr>
-    <div class="maincard center textcenter">
+    <div class="contactcard center textcenter">
         <h2>Contact formulier</h2>
         <h3>
             Wilt u meer weten over Thuisduinen 2050 of heeft u vragen over een specifiek project? 
