@@ -48,15 +48,15 @@
                     </p>
                 </div>
                 <div class="abouticons1">
-                    <a href="https://www.linkedin.com/in/jack-duineveld-33a55534/"><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
-                    <a href="https://www.jackduineveld.nl/"><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/language-1.svg" alt="Web"></a>
+                    <a href="https://www.linkedin.com/in/jack-duineveld-33a55534/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
+                    <a href="https://www.jackduineveld.nl/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/language-1.svg" alt="Web"></a>
                 </div>
                 <div class="abouticons2">
-                    <a href="https://www.linkedin.com/in/andr%C3%A9-schutte-2442041b/"><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
-                    <a href="https://twitter.com/andreschutte1"><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/twitter-square-1.svg" alt="Twitter"></a>
+                    <a href="https://www.linkedin.com/in/andr%C3%A9-schutte-2442041b/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
+                    <a href="https://twitter.com/andreschutte1" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/twitter-square-1.svg" alt="Twitter"></a>
                 </div>
                 <div class="abouticons3">
-                    <a href="https://www.linkedin.com/in/kyonadonkers/"><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
+                    <a href="https://www.linkedin.com/in/kyonadonkers/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
                 </div>
             </div>
         </div>

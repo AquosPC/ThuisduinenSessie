@@ -10,7 +10,7 @@
 </head>
 <body>
     <div id="navbar">
-    <img class="Logo" src="https://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png" alt="Logo">
+    <a href="http://localhost/ThuisduinenSessie/"><img class="Logo" src="https://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png" alt="Logo"></a>
     <nav class="flex-nav nav">
         <div class="navdiv">
             <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Welkom</a>
