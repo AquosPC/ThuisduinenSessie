@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THuisduinen</title>
     <link rel="stylesheet" href="https://localhost/ThuisduinenSessie/INC/CSS/Header.css">
     <link href="https://fonts.googleapis.com/css?family=Ubuntu:500&display=swap" rel="stylesheet"> 
     <script src="https://localhost/ThuisduinenSessie/INC/JS/Sticky.js"></script>

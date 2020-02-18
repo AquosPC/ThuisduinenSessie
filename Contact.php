@@ -3,6 +3,7 @@
 ?>
 <head>
     <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <title>THuisduinen - Contact</title>
 </head>
 <body class="pageBG">
     <div class="contactcard">

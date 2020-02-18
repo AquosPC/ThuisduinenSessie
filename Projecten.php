@@ -3,6 +3,7 @@
 ?>
 <head>
     <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <title>THuisduinen - Projecten</title>
 </head>
 <body class="pageBG">
     <div class="maincard">
