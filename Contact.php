@@ -19,10 +19,10 @@
         </h3>
         <br>
         <br>
-        <form action="" method="post">
-            <input type="text" name="Name" id="Name" placeholder="Naam"><br><br>
-            <input type="email" name="Mail" id="Mail"placeholder="E-mail"><br><br>
-            <textarea name="Text" id="Text" cols="50" rows="10" placeholder="Bericht" ></textarea><br><br>
+        <form action="PHP/_contact.php" method="post">
+            <input type="text" name="contactName" id="Name" placeholder="Naam"><br><br>
+            <input type="email" name="contactEmail" id="Mail"placeholder="E-mail"><br><br>
+            <textarea name="contactMessage" id="Text" cols="50" rows="10" placeholder="Bericht" ></textarea><br><br>
             <input class="button" type="submit" value="Verstuur">
         </form>
     </div>
