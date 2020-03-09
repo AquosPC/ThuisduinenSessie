@@ -3,6 +3,7 @@
 ?>
 <head>
     <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <title>THuisduinen - Home</title>
 </head>
 <body class="pageBG">
     <div>
@@ -29,13 +30,13 @@
     </div>
     <div class="parallaxwithtext">
         <div class="divwithtext">
-        <h1>Bezienswaardigheden</h1>
-        <p>Naast het strand, duinen en natuur is Huisduinen vooral bekend van Fort Kijkduin. 
+        <h1 class="darkoutline">Bezienswaardigheden</h1>
+        <p class="darkoutline"> Naast het strand, duinen en natuur is Huisduinen vooral bekend van Fort Kijkduin. 
             Het fort, daterend van 1811, is onderdeel van de Stelling Den Helder, een verdedigingslinie die werd gebouwd onder Napoleon. 
             Het fort is tegenwoordig een museum, dat de geschiedenis vertelt van de periode dat het een fort was. 
             In het fort bevindt zich ook een Noordzee-aquarium.
         </p>
-        <p>Klik hier voor een filmpje</p>
+        <p class="darkoutline">Klik hier voor een filmpje</p>
         </div>
     </div>
     <div class="maincard">

@@ -2,7 +2,8 @@
     Require "INC/PHP/Header.php";
 ?>
 <head>
-    <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <link rel="stylesheet" href="https://localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <title>THuisduinen - Contact</title>
 </head>
 <body class="pageBG">
     <div class="contactcard">
@@ -19,10 +20,10 @@
         </h3>
         <br>
         <br>
-        <form action="PHP/_contact.php" method="post">
-            <input type="text" name="contactName" id="Name" placeholder="Naam"><br><br>
-            <input type="email" name="contactEmail" id="Mail"placeholder="E-mail"><br><br>
-            <textarea name="contactMessage" id="Text" cols="50" rows="10" placeholder="Bericht" ></textarea><br><br>
+        <form action="https://localhost/ThuisduinenSessie/INC/PHP/Mail.php" method="post">
+            <input type="text" name="Name" id="Name" placeholder="Naam"><br><br>
+            <input type="email" name="Mail" id="Mail"placeholder="E-mail"><br><br>
+            <textarea name="Text" id="Text" cols="50" rows="10" placeholder="Bericht" ></textarea><br><br>
             <input class="button" type="submit" value="Verstuur">
         </form>
     </div>
