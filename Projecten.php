@@ -15,7 +15,7 @@
     <div class="maincard projects">
         <div>
             <h2 class="textcenter">Logistiek en Infrastructuur</h2>
-            <img class="center" src="https:localhost/ThuisduinenSessie/Assets/transport-16.1280x0.jpg" alt="Logistiek en Infrastructuur">
+            <img class="center hover" src="https:localhost/ThuisduinenSessie/Assets/transport-16.1280x0.jpg" alt="Logistiek en Infrastructuur">
         </div>
         <div>
             <h2 class="textcenter">Energie en Duurzaamheid</h2>

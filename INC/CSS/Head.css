@@ -214,3 +214,27 @@
 text-shadow: #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px,
 #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px;
 } */
+.logincard > form > input {
+  font-size: large;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 12px;
+  border-width: 10px;
+  border-color: #6eaa27;
+  padding: 1em;
+  width: 20%;
+  border-style: solid;
+  margin: 1em;
+}
+.Adminbuttonsdiv {
+  display: flex;
+  flex-direction: row;
+  }
+.Adminbuttonsdiv > div > img {
+  max-height: 100%;
+  max-width: 100%;
+  }
+  .Adminbuttonsdiv > div {
+    margin: 1em;
+    min-width: 1fr;
+    min-height: 1fr;;
+  }
