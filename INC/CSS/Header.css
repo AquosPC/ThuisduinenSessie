@@ -46,7 +46,7 @@
     font-weight: 600;
 }
 .parallax {
-    background-image: url("https://localhost/ThuisduinenSessie/Assets/duinen3.1920x0.jpg");
+    background-image: url("../../Assets/duinen3.1920x0.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -64,7 +64,7 @@
 }
 
 .parallax1 {
-    background-image: url("https://localhost/ThuisduinenSessie/Assets/huisduinen1.1920x0x0x100.jpg");
+    background-image: url("../../Assets/huisduinen1.1920x0x0x100.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -81,7 +81,7 @@
 }
 
 .parallax2 {
-    background-image: url("https://localhost/ThuisduinenSessie/Assets/huisduinen2.1920x0.jpg");
+    background-image: url("../../Assets/huisduinen2.1920x0.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;

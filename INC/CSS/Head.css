@@ -15,7 +15,7 @@
     width: 100%;
   }
   .parallaxwithtext {
-    background-image: url("https://localhost/ThuisduinenSessie/Assets/48-binnenplein.1920x0.jpg");
+    background-image: url("../../Assets/48-binnenplein.1920x0.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -225,16 +225,3 @@ text-shadow: #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px,
   border-style: solid;
   margin: 1em;
 }
-.Adminbuttonsdiv {
-  display: flex;
-  flex-direction: row;
-  }
-.Adminbuttonsdiv > div > img {
-  max-height: 100%;
-  max-width: 100%;
-  }
-  .Adminbuttonsdiv > div {
-    margin: 1em;
-    min-width: 1fr;
-    min-height: 1fr;;
-  }

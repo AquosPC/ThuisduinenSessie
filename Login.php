@@ -2,7 +2,7 @@
     Require "INC/PHP/Header.php";
 ?>
 <head>
-    <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <link rel="stylesheet" href="INC/CSS/Head.css">
     <title>THuisduinen - Adminpaneel</title>
 </head>
 <body class="pageBG">

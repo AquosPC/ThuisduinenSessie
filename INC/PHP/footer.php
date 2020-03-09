@@ -1,6 +1,6 @@
   <!-- Site footer -->
   <head>
-  <link rel="stylesheet" type="text/css" href="https:localhost/ThuisduinenSessie/INC/CSS/footer.css">
+  <link rel="stylesheet" type="text/css" href="INC/CSS/footer.css">
   </head>
 
 
@@ -10,7 +10,7 @@
           <div class="col">
                 <div class="col1">
                     <h6>THuisduinen2050</h6>
-                    <img src="https:localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png" width="221px" height="75px">
+                    <img src="Assets/thuisduinen2050-1000px.png" width="221px" height="75px">
                 </div>
           </div>
 
@@ -30,7 +30,7 @@
                     <h6>Contact</h6>
                     <ul class="footer-links">
                     <li><a class="links" href="mailto:communicatie@thuisduinen2050.nl">communicatie@thuisduinen2050.nl</a></li>
-                    <li><a class="links" href="https://thuisduinen2050.nl">thuisduinen2050.nl</a></li>
+                    <li><a class="links" href="http://thuisduinen2050.nl">thuisduinen2050.nl</a></li>
                     </ul>       
                 </div>
           </div>

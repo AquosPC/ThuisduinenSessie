@@ -1,0 +1,13 @@
+.Adminbuttonsdiv {
+    display: flex;
+    flex-direction: row;
+}
+.Adminbuttonsdiv > div > img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.Adminbuttonsdiv > div {
+      margin: 1em;
+      min-width: 1fr;
+      min-height: 1fr;;
+}

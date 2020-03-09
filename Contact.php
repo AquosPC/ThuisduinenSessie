@@ -2,7 +2,7 @@
     Require "INC/PHP/Header.php";
 ?>
 <head>
-    <link rel="stylesheet" href="https://localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <link rel="stylesheet" href="INC/CSS/Head.css">
     <title>THuisduinen - Contact</title>
 </head>
 <body class="pageBG">
@@ -20,7 +20,7 @@
         </h3>
         <br>
         <br>
-        <form action="https://localhost/ThuisduinenSessie/INC/PHP/Mail.php" method="post">
+        <form action="INC/PHP/Mail.php" method="post">
             <input type="text" name="Name" id="Name" placeholder="Naam"><br><br>
             <input type="email" name="Mail" id="Mail"placeholder="E-mail"><br><br>
             <textarea name="Text" id="Text" cols="50" rows="10" placeholder="Bericht" ></textarea><br><br>

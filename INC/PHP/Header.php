@@ -4,16 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:title" content="ThuisDuinen2050" />
-    <meta property="og:url" content="https://localhost/ThuisduinenSessie" />
+    <meta property="og:url" content="http://localhost/ThuisduinenSessie" />
     <meta property="og:description" content="ThuisDuinen2050 desc">
-    <meta property="og:image" content="https://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png">
-    <link rel="stylesheet" href="https://localhost/ThuisduinenSessie/INC/CSS/Header.css">
-    <link href="https://fonts.googleapis.com/css?family=Ubuntu:500&display=swap" rel="stylesheet"> 
-    <script src="https://localhost/ThuisduinenSessie/INC/JS/Sticky.js"></script>
+    <meta property="og:image" content="http://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png">
+    <link rel="stylesheet" href="http://localhost/ThuisduinenSessie/INC/CSS/Header.css">
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:500&display=swap" rel="stylesheet"> 
 </head>
 <body>
     <div id="navbar">
-    <a href="http://localhost/ThuisduinenSessie/"><img class="Logo" src="https://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png" alt="Logo"></a>
+    <a href="http://localhost/ThuisduinenSessie/"><img class="Logo" src="http://localhost/ThuisduinenSessie/Assets/thuisduinen2050-1000px.png" alt="Logo"></a>
     <nav class="flex-nav nav">
         <div class="navdiv">
             <a class="navlinks" href="http://localhost/ThuisduinenSessie/">Welkom</a>

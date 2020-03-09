@@ -2,7 +2,8 @@
     Require "INC/PHP/Header.php";
 ?>
 <head>
-    <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <link rel="stylesheet" href="INC/CSS/Head.css">
+    <link rel="stylesheet" href="INC/CSS/Admin.css">
     <title>THuisduinen - Adminpaneel</title>
 </head>
 <body class="pageBG">
@@ -12,7 +13,7 @@
     </div>
     <div class="Adminbuttonsdiv">
     <div>
-        <img src="https:localhost/ThuisduinenSessie/Assets/Nieuwslogo.svg" alt="News">
+        <img src="Assets/Nieuwslogo.svg" alt="News">
         <h2 class="">Nieuws</h2>
     </div>
     <div>

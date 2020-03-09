@@ -2,7 +2,7 @@
     Require "INC/PHP/Header.php";
 ?>
 <head>
-    <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <link rel="stylesheet" href="INC/CSS/Head.css">
     <title>THuisduinen - Over ons</title>
 </head>
 <body class="pageBG">
@@ -11,13 +11,13 @@
             <h2 class="textcenter">Ons team</h2><br>
             <div class="aboutdiv">
                 <div class="aboutimg1">
-                    <img class="roundcenter" src="https://localhost/ThuisduinenSessie/Assets/jack-duineveld.240x240.jpg" alt="Jack Duineveld">
+                    <img class="roundcenter" src="Assets/jack-duineveld.240x240.jpg" alt="Jack Duineveld">
                 </div>
                 <div class="aboutimg2">
-                    <img class="roundcenter" src="https://localhost/ThuisduinenSessie/Assets/q-3jn8rc-400x400.240x0.jpg" alt="André Schutte">
+                    <img class="roundcenter" src="Assets/q-3jn8rc-400x400.240x0.jpg" alt="André Schutte">
                 </div>
                 <div class="aboutimg3">
-                    <img class="roundcenter" src="https://localhost/ThuisduinenSessie/Assets/ky-roze-haar.240x0.jpg" alt="Kyona Donkers">
+                    <img class="roundcenter" src="Assets/ky-roze-haar.240x0.jpg" alt="Kyona Donkers">
                 </div>
                 <div class="aboutinfo1">
                     <h3>Jack Duineveld <br><br>
@@ -49,15 +49,15 @@
                     </p>
                 </div>
                 <div class="abouticons1">
-                    <a href="https://www.linkedin.com/in/jack-duineveld-33a55534/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
-                    <a href="https://www.jackduineveld.nl/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/language-1.svg" alt="Web"></a>
+                    <a href="https://www.linkedin.com/in/jack-duineveld-33a55534/" target="_blank" ><img class="icon" src="Assets/linkedin-1.svg" alt="Linked-in"></a>
+                    <a href="https://www.jackduineveld.nl/" target="_blank" ><img class="icon" src="Assets/language-1.svg" alt="Web"></a>
                 </div>
                 <div class="abouticons2">
-                    <a href="https://www.linkedin.com/in/andr%C3%A9-schutte-2442041b/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
-                    <a href="https://twitter.com/andreschutte1" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/twitter-square-1.svg" alt="Twitter"></a>
+                    <a href="https://www.linkedin.com/in/andr%C3%A9-schutte-2442041b/" target="_blank" ><img class="icon" src="Assets/linkedin-1.svg" alt="Linked-in"></a>
+                    <a href="https://twitter.com/andreschutte1" target="_blank" ><img class="icon" src="Assets/twitter-square-1.svg" alt="Twitter"></a>
                 </div>
                 <div class="abouticons3">
-                    <a href="https://www.linkedin.com/in/kyonadonkers/" target="_blank" ><img class="icon" src="https://localhost/ThuisduinenSessie/Assets/linkedin-1.svg" alt="Linked-in"></a>
+                    <a href="https://www.linkedin.com/in/kyonadonkers/" target="_blank" ><img class="icon" src="Assets/linkedin-1.svg" alt="Linked-in"></a>
                 </div>
             </div>
         </div>

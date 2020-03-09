@@ -2,7 +2,7 @@
     Require "INC/PHP/Header.php";
 ?>
 <head>
-    <link rel="stylesheet" href="https:localhost/ThuisduinenSessie/INC/CSS/Head.css">
+    <link rel="stylesheet" href="INC/CSS/Head.css">
     <title>THuisduinen - Home</title>
 </head>
 <body class="pageBG">
@@ -42,7 +42,7 @@
     <div class="maincard">
         <div class="Blogdiv">
             <div class="Blogimage">
-                <img  class="center" src="https://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
+                <img  class="center" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
             </div>
             <div>
                 <h2>PAK JIJ EEN GOUDEN TICKET T.W.V. € 5.000?</h2>
@@ -54,7 +54,7 @@
                 In het Gouden Kans project doe je in zes maanden tijd de meest bijzondere werkervaring op met een ‘goed gevoel project’. 
                 Jij gaat aan een project werken bij een organisatie die er toe doet. 
                 Je volgt trainingen en ontwikkelt nieuwe skills. Je wordt gecoacht in de praktijk, zodat jij je talenten ontdekt.</p>
-                <a href="https://www.google.com"><button class="button">Meer Lezen</button></a>
+                <a href="http://www.google.com"><button class="button">Meer Lezen</button></a>
             </div>
         </div>
     </div>
