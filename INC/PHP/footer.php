@@ -36,6 +36,6 @@
           </div>
         </div>
         <hr>
-        <p>Additional links: <a class="links" href="http://localhost/ThuisduinenSessie/Admin.php">Adminpaneel</a> &bull; <a class="links" href="http://localhost/ThuisduinenSessie/Login.php">Login</a> </p>
+        <p>Additional links: <a class="links" href="http://localhost/ThuisduinenSessie/Admin.php">Adminpaneel</a> &bull; <a class="links" href="http://localhost/ThuisduinenSessie/Login.php">Login</a> &bull; <a class="links" href="http://localhost/ThuisduinenSessie/addnews.php">Add news</a> </p>
       </div>
 </footer>

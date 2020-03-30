@@ -225,3 +225,7 @@ text-shadow: #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px,
   border-style: solid;
   margin: 1em;
 }
+.Newsimage {
+  height: 50%;
+  width: 50%;
+}

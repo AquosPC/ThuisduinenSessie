@@ -40,24 +40,25 @@
         </div>
     </div>
     <div class="maincard">
-        <div class="Blogdiv">
-            <div class="Blogimage">
-                <img  class="center" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
-            </div>
-            <div>
-                <h2>PAK JIJ EEN GOUDEN TICKET T.W.V. € 5.000?</h2>
-                <p>11/02/2020 (test)</p>
-            </div>
-            <div>
-                <p>Ben jij tussen de 16 en 27 jaar oud en vraag jij jezelf wel eens af wat voor werk nu echt bij je past? 
-                Waar jij energie van krijgt en waar je goed in bent?
-                In het Gouden Kans project doe je in zes maanden tijd de meest bijzondere werkervaring op met een ‘goed gevoel project’. 
-                Jij gaat aan een project werken bij een organisatie die er toe doet. 
-                Je volgt trainingen en ontwikkelt nieuwe skills. Je wordt gecoacht in de praktijk, zodat jij je talenten ontdekt.</p>
-                <a href="http://www.google.com"><button class="button">Meer Lezen</button></a>
+    <?php   require 'INC/PHP/db.php';
+            $sql = "SELECT * FROM `newsposts`";
+            $result = $con->query($sql);
+            while($row = $result->fetch_assoc()) { ?>
+            <div class="Blogdiv">
+                <div class="Blogimage">
+                    <img  class="center" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
+                </div>
+                <div>
+                    <h2><?php echo $row['Title'] ?></h2>
+                    <p><?php echo $row['Date'] ?></p>
+                </div>
+                <div>
+                    <p><?php echo $row['Text'] ?></p>
+                    <a href="http://localhost/ThuisduinenSessie/News.php?id=<?php echo $row['id']?>"><button class="button">Meer Lezen</button></a>
+                </div>
             </div>
         </div>
-    </div>
-    </div>
-</body>
-<?php require("INC/PHP/footer.php") ?>
+        </div>
+            <?php } ?>
+    </body>
+    <?php require("INC/PHP/footer.php") ?>
