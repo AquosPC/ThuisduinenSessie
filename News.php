@@ -13,8 +13,8 @@
 </head>
 <body class="pageBG">
     <div class="maincard">
-            <div class="Newsimage">
-                    <img  class="center" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
+            <div class="center">
+                    <img class="Newsimage" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
                 </div>
                 <div>
                     <h2><?php echo $row['Title'] ?></h2>
