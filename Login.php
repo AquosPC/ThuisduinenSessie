@@ -9,12 +9,12 @@
     <div>
     <div class="maincard">
         <div class="logincard center textcenter">
-            <form action="" method="post">
-            <input type="email" name="" id="" placeholder="Email invoeren">
+            <form action="INC/PHP/_login.php" method="POST">
+            <input type="email" name="email" placeholder="Email invoeren" required="required">
             <br>
-            <input type="password" name="" id="" placeholder="Wachtwoord invoeren">
+            <input type="password" name="password" placeholder="Wachtwoord invoeren" required="required">
             <br>
-            <input class="button" type="submit" value="Inloggen">
+            <input class="button" type="submit" name="login-submit" value="Inloggen">
             </form>
         </div>
     </div>
