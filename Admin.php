@@ -12,16 +12,12 @@
         <h1 class="bold">Welkom, {Username}.</h2>
     </div>
     <div class="Adminbuttonsdiv">
+    <a href="Newsadmin.php">
     <div>
         <img src="Assets/Nieuwslogo.svg" alt="News">
         <h2 class="">Nieuws</h2>
     </div>
-    <div>
-    2
-    </div>
-    <div>
-        3
-    </div>
+    </a>
 </div>
 </body>
 <?php require("INC/PHP/footer.php") ?>

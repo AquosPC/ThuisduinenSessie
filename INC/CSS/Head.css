@@ -43,13 +43,17 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 0px;
-    grid-row-gap: 0px;      
+    grid-row-gap: 0px;     
+}
+.blogtext {
+  max-width: 50%;
 }
 .Blogdiv > .Blogimage {
     grid-row-start: 1;
     grid-row-end: 3;
 }
 .Blogdiv > .Blogimage > img {
+    min-width: 50%;
     width: 50%;
      margin: auto;
     padding: 1em;
@@ -186,9 +190,6 @@
   border-style: solid;
   resize: none;
 } 
-.button {
-  background-color: #6eaa27;
-}
 .contactcard {
   margin-top: 2em;
   margin-bottom: 2em;
@@ -228,4 +229,42 @@ text-shadow: #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px,
 .Newsimage {
   max-height: 50%;
   max-width: 50%;
+}
+.Viewnewsimage {
+  width: 30%;
+  text-align: left;
+}
+.hrnews {
+  max-width: 40%;
+  text-align: left;
+  margin-left: 0;
+}
+.newsinputtext {
+  width: 50%;
+}
+.inputstyle {
+  font-size: large;
+  font-family: 'Ubuntu', sans-serif;
+  border-radius: 12px;
+  border-width: 10px;
+  border-color: #6eaa27;
+  padding: 1em;
+  width: 50%;
+  border-style: solid;
+}
+.noresize {
+  resize: none;
+}
+.centerbutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.textstyle {
+  font-family: 'Ubuntu', sans-serif;
+}
+.buttoncenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

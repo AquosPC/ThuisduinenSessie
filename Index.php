@@ -44,21 +44,21 @@
             $sql = "SELECT * FROM `newsposts`";
             $result = $con->query($sql);
             while($row = $result->fetch_assoc()) { ?>
-            <div class="Blogdiv">
+            <div class="Blogdiv textstyle">
                 <div class="Blogimage">
-                    <img  class="center" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
+                    <img  class="center" src="http://localhost/ThuisduinenSessie/Assets/Blogimage/<?php echo $row['Image']?>" alt="Education">
                 </div>
                 <div>
                     <h2><?php echo $row['Title'] ?></h2>
                     <p><?php echo $row['Date'] ?></p>
                 </div>
                 <div>
-                    <p><?php echo $row['Text'] ?></p>
+                    <p><?php echo $row['Summary'] ?></p>
                     <a href="http://localhost/ThuisduinenSessie/News.php?id=<?php echo $row['id']?>"><button class="button">Meer Lezen</button></a>
                 </div>
             </div>
-        </div>
-        </div>
+            <hr>
             <?php } ?>
+            </div>
     </body>
     <?php require("INC/PHP/footer.php") ?>

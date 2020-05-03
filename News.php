@@ -14,14 +14,17 @@
 <body class="pageBG">
     <div class="maincard">
             <div class="center">
-                    <img class="Newsimage" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
+                    <img class="Viewnewsimage" src="http://localhost/ThuisduinenSessie/Assets/education-12.960x0.jpg" alt="Education">
                 </div>
                 <div>
                     <h2><?php echo $row['Title'] ?></h2>
                     <p><?php echo $row['Date'] ?></p>
                 </div>
+                <hr class="hrnews">
                 <div>
-                    <p><?php echo $row['Text'] ?></p>
+                    <p><b><?php echo $row['Summary'] ?></b></p>
+                    <br>
+                    <p><?php echo $row['Description'] ?></p>
                 </div>
     <?php } } ?>
     </div>
