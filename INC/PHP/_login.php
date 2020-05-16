@@ -12,10 +12,10 @@ if(isset($_POST['login-submit'])){
         exit();
     }
     else{
-        $sql = "SELECT email, password, role, lastName, userId FROM users WHERE userId=? OR email=?;";
+        $sql = "SELECT email, password, role FROM users WHERE password=? OR email=?;";
         $stmt = mysqli_stmt_init($conn);
         if(!mysqli_stmt_prepare($stmt, $sql)){
-            header("location: ../../Login.php?error=sqlerror");
+            header("location: ../../Login.php?error=sqlError");
             exit();
         }
         else{
@@ -28,9 +28,6 @@ if(isset($_POST['login-submit'])){
                 //password check
                 if ($pwdCheck == $row['password']){
                     session_start();
-                    $_SESSION['userId'] = $row['userId'];
-                    $_SESSION['email'] = $row['email'];
-                    $_SESSION['lastName'] = $row['lastName'];
                     $_SESSION['role'] = $row['role'];
                     // role check 
                     if($row['role'] == 1){

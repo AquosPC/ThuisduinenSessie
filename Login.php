@@ -15,7 +15,10 @@
             <input type="password" name="password" placeholder="Wachtwoord invoeren" required="required">
             <br>
             <input class="button" type="submit" name="login-submit" value="Inloggen">
+
+            <a href="INC/PHP/">
             </form>
+
         </div>
     </div>
     </div>
