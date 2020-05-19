@@ -268,3 +268,9 @@ text-shadow: #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px,
   justify-content: center;
   align-items: center;
 }
+.link {
+  color: black;
+}
+.link :hover {
+  color: #4CAF50;
+}

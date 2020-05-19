@@ -9,7 +9,7 @@
     <div class="maincard">
         <h2 class="textcenter">Projecten</h2>
         <h3 class="textcenter">Thema's</h3>
-        <img class="center schema" src="Assets/projectenschema.1280x0.jpg" alt="Projectenschema">
+        <img class="center schema" src="Assets/projectenschema2.1280x0.jpg" alt="Projectenschema">
     </div>
     <hr>
     <div class="maincard projects">
