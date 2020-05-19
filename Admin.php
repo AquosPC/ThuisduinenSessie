@@ -7,6 +7,7 @@
     <title>THuisduinen - Adminpaneel</title>
 </head>
 <body class="pageBG">
+    <button onclick="window.location.href ='makeNewUser.php'"class="" ><span class="">Maak gebruiker</span></button>
     <div>
     <div class="maincard">
         <h1 class="bold">Welkom, {Username}.</h2>
