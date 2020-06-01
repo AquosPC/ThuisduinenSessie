@@ -11,21 +11,24 @@
         <h2 class="bold">Thuisduinen2050</h2>
         <h3 class="bold">Alles voor en door bewoners</h3>
         <p class="semibold">
-            Huisduinen is een van de populairste woonlocaties in de gemeente Den Helder en de rust en ruimte van de natuurgebieden worden door bewoners vanuit heel Den Helder gebruikt voor natuurbeleving en recreatie. 
-            In de loop der jaren is de vraag ontstaan hoe  de bewoners van Huisduinen kunnen bijdragen aan een toekomstbestendige ontwikkeling van hun woon- en leefomgeving, waarbij de identiteit en het gebiedseigen karakter behouden blijft. 
-            Vanuit dit initiatief is 'Thuisduinen2050' ontstaan. 
+        Huisduinen is een van de populairste woonlocaties in de gemeente Den Helder en de rust en ruimte van de natuurgebieden worden door bewoners vanuit heel Den Helder gebruikt voor natuurbeleving en recreatie. 
+        In de loop der jaren is de vraag ontstaan hoe  de bewoners van Huisduinen kunnen bijdragen aan een toekomstbestendige ontwikkeling van hun woon- en leefomgeving, waarbij de identiteit en het gebiedseigen karakter behouden blijft. 
+        Vanuit dit initiatief is 'Thuisduinen2050' ontstaan. 
         </p>
         <p class="semibold">
-            Huisduinen als 'kenniswerkplaats' 
+        Huisduinen als 'kenniswerkplaats': Hoe maak je een dorp zelfvoorzienend en volledig duurzaam? 
         </p>
         <p>
-            Inholland heeft samen met de Stichting Huisduiner Belang een kenniswerkplaats opgericht waarin studenten aan de slag gaan met vraagstukken uit Huisduinen die te maken hebben met Samenwerking en Communicatie, Voeding en Gezondheid, Energie en Duurzaamheid, Transport en Infrastructuur en Zorg en Welzijn.
+        Het is een vraagstuk waar bewoners van Huisduinen in samenwerking met studenten van InHolland en ROC Kop van Noord-Holland mee aan de slag zijn gegaan. 
+        Vanuit dit initiatief zijn verschillende projecten voor 'Thuisduinen2050' tot stand gekomen waarbij jongeren, samen met bewoners van Huisduinen, projecten uitdragen in het kader van duurzaamheid en zelfvoorziening. 
+        De projecten zijn onderverdeeld in vier thema’s: energie en duurzaamheid, voeding en gezondheid, infrastructuur en logistiek en zorg en welzijn. Vanuit elk thema zijn verschillende projecten ontstaan.
                 <br><br>
-            In de eerste helft van schooljaar 2019-2020 gaan zesentwintig studenten van Hogeschool Inholland en negen studenten ROC Kop van Noord-Holland aan de slag met vier projecten in de kenniswerkpaats, een nieuwe vorm van onderwijs. 
-            In deze methodiek werken studenten samen met docenten, bedrijven én bewoners aan oplossingen voor actuele interprofessionele vraagstukken in de samenleving. 
-            Het mes snijdt aan verschillende kanten tegelijk!
+                Bij Thuisduinen werk je meteen vanuit de praktijk: bewoners en studenten werken samen om projecten uit te werken, uit te voeren, te toetsen en aan te scherpen. 
+                Samen maken wij van Thuisduinen het eerste zelfvoorzienende dorp van Nederland. 
                 <br><br>
-            Heb jij als bewoner ook ideeën voor een project of wil jij partciperen in bestaande projecten? Neem dan contact met ons op via ons contactformulier.
+                Benieuwd naar de huidige projecten? Kijk dan op onze <a class="link" href="http://localhost/ThuisduinenSessie/Projecten.php">projectenpagina</a>. 
+                <br><br>
+                Heb jij als bewoner ook ideeën voor een project of wil jij partciperen in bestaande projecten? Neem dan contact met ons op via ons <a class="link" href="http://localhost/ThuisduinenSessie/Contact.php">contactformulier</a>. 
         </p>
     </div>
     <div class="parallaxwithtext">
