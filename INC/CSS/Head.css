@@ -215,7 +215,7 @@
 text-shadow: #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px,
 #000 0px 0px 2px,   #000 0px 0px 2px,   #000 0px 0px 2px;
 } */
-.logincard > form > input {
+.logincard > form > input, select, button {
   font-size: large;
   font-family: 'Ubuntu', sans-serif;
   border-radius: 12px;

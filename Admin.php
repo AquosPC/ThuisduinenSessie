@@ -7,7 +7,6 @@
     <title>THuisduinen - Adminpaneel</title>
 </head>
 <body class="pageBG">
-    <button onclick="window.location.href ='makeNewUser.php'"class="" ><span class="">Maak gebruiker</span></button>
     <div>
     <div class="maincard">
         <h1 class="bold">Welkom, {Username}.</h2>
@@ -18,6 +17,12 @@
         <img src="Assets/Nieuwslogo.svg" alt="News">
         <h2 class="">Nieuws</h2>
     </div>
+    </a>
+    <a href="makeNewUser.php">
+        <div>
+            <img src="Assets/Nieuwslogo.svg" alt="Nieuwe gebruiker">
+            <h2 class="">Gebruiker aanmaken</h2>
+        </div>
     </a>
 </div>
 </body>
