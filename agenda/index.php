@@ -1,11 +1,15 @@
-<!DOCTYPE html>
-<html>
 
+
+<?php 
+    Require "../INC/PHP/Header.php";
+?>
 <head>
 <link rel="stylesheet" href="fullcalendar/fullcalendar.min.css" />
+<link rel="stylesheet" href="../INC/CSS/Head.css">
 <script src="fullcalendar/lib/jquery.min.js"></script>
 <script src="fullcalendar/lib/moment.min.js"></script>
 <script src="fullcalendar/fullcalendar.min.js"></script>
+<title>THuisduinen - Agenda</title>
 
 <script>
 
@@ -91,10 +95,10 @@ function displayMessage(message) {
 </script>
 
 <style>
-body {
-    margin-top: 50px;
+body h2{
+    margin: 50px;
     text-align: center;
-    font-size: 12px;
+    /*font-size: 12px;*/
     font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
 }
 
@@ -115,12 +119,10 @@ body {
 }
 </style>
 </head>
-<body>
+<body class="pageBG">
     <h2>Kalender thuisduinen2050</h2>
 
     <div class="response"></div>
     <div id='calendar'></div>
 </body>
-
-
-</html>
+<?php require("footer2.php") ?>
