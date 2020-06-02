@@ -20,7 +20,7 @@
     </a>
     <a href="makeNewUser.php">
         <div>
-            <img src="Assets/Nieuwslogo.svg" alt="Nieuwe gebruiker">
+            <img src="Assets/Users.svg" alt="Nieuwe gebruiker">
             <h2 class="">Gebruiker aanmaken</h2>
         </div>
     </a>

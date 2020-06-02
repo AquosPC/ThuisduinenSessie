@@ -26,6 +26,20 @@
             <textarea name="text" id="text" cols="50" rows="10" placeholder="Bericht" ></textarea><br><br>
             <input class="button" type="submit" value="Verstuur">
         </form>
+        <hr>
+        <br>
+        <br>
+        <h3>
+            Wilt u ook onze nieuwsbrief ontvangen?
+            <br>
+            vul hier uw email in!
+        </h3>
+        <br>
+        <br>
+        <form action="INC/PHP/_Nieuwsbrief.php" method="post">
+            <input type="email" name="mail" id="Mail"placeholder="E-mail"><br><br>
+            <input class="button" type="submit" value="Verstuur">
+        </form>
     </div>
 </body>
 <?php require("INC/PHP/footer.php") ?>

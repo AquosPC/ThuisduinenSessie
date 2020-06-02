@@ -3,13 +3,17 @@
     flex-direction: row;
     
 }
-.Adminbuttonsdiv > div > img {
-    max-height: 100%;
-    max-width: 100%;
+.Adminbuttonsdiv > a > div > img {
+    max-height: 82px;
+    max-width: 82px;
+    display:block;
+    margin:auto;
 }
-.Adminbuttonsdiv > div {
+.Adminbuttonsdiv > a > div {
       min-width: 1fr;
-      min-height: 1fr;;
+      min-height: 1fr;
+      max-width: 1fr;
+      max-height: 1fr;
       margin: auto;
       padding: 10px;
 }
