@@ -43,7 +43,7 @@
         </div>
     </div>
     <div>
-        <h2 style="text-align: center;">Wilt u meer weten over activiteiten? Bekijk onze agenda!<br>
+        <h2 class=""style="text-align: center; font-family: 'Ubuntu', sans-serif;">Wilt u meer weten over activiteiten? Bekijk onze agenda!<br>
             Wilt u eventueel meedoen aan een activiteit of bijeenkomst?<br>
             Bekijk onze contact pagina en meld u aan.<br>
         </h2>
