@@ -63,7 +63,7 @@
 
                     foreach ($configs as $config) {
 
-                echo '<option value="'.$config['id'].'">'.$config['title'].'</option>';
+                echo '<option value="'.$config['title'].'">'.$config['title'].'</option>';
                 }
                 ?>
             </select>
