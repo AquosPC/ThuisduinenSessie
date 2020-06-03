@@ -17,7 +17,7 @@ else {
 $var1 = mysqli_real_escape_string($link, $_POST['naam']);
 $var2 = mysqli_real_escape_string($link, $_POST['mail']);
 $var3 = mysqli_real_escape_string($link, $_POST['nameOfActivity']);
-$var4 = mysqli_real_escape_string($link, $_POST['date']);
+$var4 = mysqli_real_escape_string($link, $_POST['start']);
 $var5 = mysqli_real_escape_string($link, $_POST['amountOfPeople']);
 
 
