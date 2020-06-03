@@ -9,7 +9,7 @@
 <body class="pageBG">
     <div>
     <div class="maincard">
-        <h1 class="bold">Welkom, {Username}.</h2>
+        <h2 class="bold">Welkom, beheerder</h2>
     </div>
     <div class="Adminbuttonsdiv">
     <a href="Newsadmin.php">

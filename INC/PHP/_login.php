@@ -28,6 +28,8 @@ if(isset($_POST['login-submit'])){
                 if ($pwdCheck == $row['password']){
                     session_start();
                     $_SESSION['role'] = $row['role'];
+                    $_SESSION['firstName'] = $row['firstName'];
+                    $_SESSION['lastName'] = $row['lastName'];
                     // role check 
                     if($row['role'] == 1){
                         header("location: ../../Admin.php");

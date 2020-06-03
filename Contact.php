@@ -53,8 +53,21 @@
         <form action="INC/PHP/_contact2.php" method="post">
             <input type="text" name="naam" id="Mail"placeholder="Naam"><br><br>
             <input type="email" name="mail" id="Mail"placeholder="E-mail"><br><br>
-            <input type="text" name="nameOfActivity" id="nameOfActivity" placeholder="Naam van de activiteit"><br><br>
-            <input type="text" name="date" id="date" placeholder="Datum van de activiteit"><br><br>
+            <div class="txtb">
+            <select  class="gebruikerAanmaken2"  name ="nameOfActivity">
+                <?php  
+                    $db = mysqli_connect("localhost", "root", "", "thuisduinensessie");
+                    $sql = "SELECT  * FROM tbl_events";
+
+                    $configs = mysqli_query($db, $sql);
+
+                    foreach ($configs as $config) {
+
+                echo '<option value="'.$config['id'].'">'.$config['title'].'</option>';
+                }
+                ?>
+            </select>
+        </div>
             <input type="text" name="amountOfPeople" id="amountOfPeople" placeholder="Met hoeveel personen komt u?"><br><br>
             <input class="button" type="submit" value="Verstuur">
         </form>
