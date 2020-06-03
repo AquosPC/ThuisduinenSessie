@@ -21,7 +21,6 @@
                 <td>Naam</td>
                 <td>Email</td>
                 <td>Activiteit</td>
-                <td>Datum</td>
                 <td>Aantalpersonen</td>
             </tr>
             <?php   require 'INC/PHP/db.php';
@@ -34,7 +33,6 @@
                 <td><?php echo $row['Naam'] ?></td>
                 <td><?php echo $row['Email'] ?></td>
                 <td><?php echo $row['NaamVanActiviteit'] ?></td>
-                <td><?php echo $row['DatumVanActiviteit'] ?></td>
                 <td><?php echo $row['AantalPersonen'] ?></td>
             </tr>
             <?php } ?>
