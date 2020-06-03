@@ -26,10 +26,10 @@
     </a>
     <a href="beheerAgenda/index.php">
         <div>
-            <img src="Assets/Users.svg" alt="Beheer agenda">
+            <img src="Assets/calenderlogo.svg" alt="Beheer agenda">
             <h2 class="">Beheer agenda</h2>
         </div>
-    <a href="makeNewUser.php">
+    <a href="Nieuwsbrief.php">
         <div>
             <img src="Assets/nieuwsbrieflogo.svg" alt="Nieuwsbrief">
             <h2 class="">Nieuwsbrief</h2>
