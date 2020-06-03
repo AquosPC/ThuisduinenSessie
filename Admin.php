@@ -24,6 +24,12 @@
             <h2 class="">Gebruiker aanmaken</h2>
         </div>
     </a>
+    <a href="beheerAgenda/index.php">
+        <div>
+            <img src="Assets/Users.svg" alt="Beheer agenda">
+            <h2 class="">Beheer agenda</h2>
+        </div>
+    </a>
 </div>
 </body>
 <?php require("INC/PHP/footer.php") ?>
