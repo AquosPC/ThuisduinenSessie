@@ -24,6 +24,13 @@
             <h2 class="">Gebruiker aanmaken</h2>
         </div>
     </a>
+    <a href="makeNewUser.php">
+        <div>
+            <img src="Assets/nieuwsbrieflogo.svg" alt="Nieuwsbrief">
+            <h2 class="">Nieuwsbrief</h2>
+        </div>
+    </a>
 </div>
+
 </body>
 <?php require("INC/PHP/footer.php") ?>
