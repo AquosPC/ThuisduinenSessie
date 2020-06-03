@@ -28,8 +28,13 @@
         <div>
             <img src="Assets/Users.svg" alt="Beheer agenda">
             <h2 class="">Beheer agenda</h2>
+    <a href="makeNewUser.php">
+        <div>
+            <img src="Assets/nieuwsbrieflogo.svg" alt="Nieuwsbrief">
+            <h2 class="">Nieuwsbrief</h2>
         </div>
     </a>
 </div>
+
 </body>
 <?php require("INC/PHP/footer.php") ?>
