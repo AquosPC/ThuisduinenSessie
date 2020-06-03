@@ -42,6 +42,12 @@
         <p class="darkoutline">Klik hier voor een filmpje</p>
         </div>
     </div>
+    <div>
+        <h2 style="text-align: center;">Wilt u meer weten over activiteiten? Bekijk onze agenda!<br>
+            Wilt u eventueel meedoen aan een activiteit of bijeenkomst?<br>
+            Bekijk onze contact pagina en meld u aan.<br>
+        </h2>
+        <a href="http://localhost/ThuisduinenSessie/agenda/index.php"><button class="button2">Agenda</button></a>
     <div class="maincard">
     <?php   require 'INC/PHP/db.php';
             $sql = "SELECT * FROM `newsposts`";
