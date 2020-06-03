@@ -25,7 +25,7 @@
             $result = $con->query($sql);
             while($row = $result->fetch_assoc()) { ?>
             <tr>
-                <td><a href="http://localhost/ThuisduinenSessie/Delnews.php?id=<?php echo $row['id']?>"><button>Verwijderen</button></a></td>
+                <td><a href="http://localhost/ThuisduinenSessie/DelNieuwsbrief.php?id=<?php echo $row['id']?>"><button>Verwijderen</button></a></td>
                 <td><?php echo $row['id'] ?></td>
                 <td><?php echo $row['Email'] ?></td>
             </tr>
