@@ -28,7 +28,7 @@ function uploadUser(){
         }
 
         $sql = "INSERT INTO users (firstName, lastName, email, password, role) 
-        VALUES ('$firstName', '$lastName', '$email', '$password', '$role')";
+        VALUES ('$firstName', '$lastName', '$email', '$hashed_password', '$role')";
         mysqli_query($db, $sql); // stores in de table
 
         //redirect

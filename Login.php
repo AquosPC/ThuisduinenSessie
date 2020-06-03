@@ -7,6 +7,12 @@
 </head>
 <body class="pageBG">
     <div>
+        <p>
+            Delete this!<br>
+            test6@test.nl<br>
+            test6<br>
+            Delete this!
+        </p>
     <div class="maincard">
         <div class="logincard center textcenter">
             <form action="INC/PHP/_login.php" method="POST">

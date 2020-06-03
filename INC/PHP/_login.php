@@ -23,8 +23,7 @@ if(isset($_POST['login-submit'])){
             mysqli_stmt_execute($stmt);
             $result = mysqli_stmt_get_result($stmt);
             if($row = mysqli_fetch_assoc($result)){
-                // $pwdCheck = password_verify($password, $row['password']);
-                $pwdCheck = $password;
+                $pwdCheck = password_verify($password, $row['password']);
                 //password check
                 if ($pwdCheck == $row['password']){
                     session_start();
