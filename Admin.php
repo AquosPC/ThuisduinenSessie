@@ -29,6 +29,14 @@
             <img src="Assets/calenderlogo.svg" alt="Beheer agenda">
             <h2 class="">Beheer agenda</h2>
         </div>
+    </a>
+    </a>
+    <a href="Aanmeldingen.php">
+        <div>
+            <img src="Assets/Aanmeldingen.svg" alt="Beheer agenda">
+            <h2 class="">Aanmeldingen</h2>
+        </div>
+    </a>
     <a href="Nieuwsbrief.php">
         <div>
             <img src="Assets/nieuwsbrieflogo.svg" alt="Nieuwsbrief">
