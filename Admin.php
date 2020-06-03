@@ -28,6 +28,7 @@
         <div>
             <img src="Assets/Users.svg" alt="Beheer agenda">
             <h2 class="">Beheer agenda</h2>
+        </div>
     <a href="makeNewUser.php">
         <div>
             <img src="Assets/nieuwsbrieflogo.svg" alt="Nieuwsbrief">
