@@ -9,10 +9,18 @@
 <body class="pageBG">
     <div class="maincard">
         <h2 class="textcenter">Nieuwsbrief index</h2>
-    </div>>
+    </div>
     <br>
     <br>
     <div class="maincard">
+    <div>
+    <?php
+        require 'INC/PHP/db.php';
+        $sql = "SELECT Email FROM `nieuwsbrief`";
+        $result = $con->query($sql);
+         ?>
+    <a href="mailto:<?php while($row = $result->fetch_assoc()) { echo $row['Email']?>,<?php } ?>"><button class="center">Mail sturen</button></a>
+    </div>
     <table class="divtable">
         <tbody>
             <tr>
