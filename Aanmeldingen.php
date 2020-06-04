@@ -39,5 +39,6 @@
         </tbody>
     </table>
     </div>
+     <a href="http://localhost/ThuisduinenSessie/admin.php"><button class="button">Admin pagina</button></a>
 </body>
 <?php require("INC/PHP/footer.php") ?>

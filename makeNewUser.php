@@ -28,7 +28,7 @@
         </select>
             <br>
         <input class="" type="submit" name="upload" value="Maak gebruiker aan">   
-        <button onclick="window.location.href ='Admin.php'"class="" ><span class="">Ga terug</span></button>
+        <button onclick="window.location.href ='Admin.php'"class="" ><span class="">Admin pagina</span></button>
 </form>
 </div>
 </div>

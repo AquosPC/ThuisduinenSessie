@@ -59,9 +59,10 @@ body h2{
 </style>
 </head>
 <body class="pageBG">
-    <h2>Kalender thuisduinen2050</h2>
+    <h2>Kalender THuisduinen2050</h2>
 
     <div class="response"></div>
     <div id='calendar'></div>
+    <a href="http://localhost/ThuisduinenSessie/Contact.php"><button class="button2">Meld u hier aan.</button></a>
 </body>
 <?php require("footer2.php") ?>

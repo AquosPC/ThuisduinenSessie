@@ -44,10 +44,11 @@
         <br>
         <br>
         <h3>
-            Wilt u bij een overeenkomst zijn? Kijk in de agenda en
+            Wilt u bij een activiteit zijn? Kijk in de agenda en
             <br>
             meld u hieronder aan!
         </h3>
+        <a href="http://localhost/ThuisduinenSessie/agenda/index.php"><button class="button">Agenda</button></a>
         <br>
         <br>
         <form action="INC/PHP/_contact2.php" method="post">

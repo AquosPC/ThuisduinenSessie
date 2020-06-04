@@ -124,5 +124,6 @@ body h2{
 
     <div class="response"></div>
     <div id='calendar'></div>
+    <a href="http://localhost/ThuisduinenSessie/admin.php"><button class="button">Admin pagina</button></a>
 </body>
 <?php require("footer2.php") ?>
